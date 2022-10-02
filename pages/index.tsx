@@ -4,6 +4,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { useState } from 'react'
 import ModalBase from '../components/ModalBase'
+
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
